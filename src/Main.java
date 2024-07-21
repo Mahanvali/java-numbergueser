@@ -1,4 +1,4 @@
-package numbergueser.src;
+package numberguesser.src;
 
 import java.util.Scanner;
 import java.util.Random;
